@@ -7,7 +7,7 @@
 
 - 🧠 I’m currently learning **Ruby / Rails / RSPEC / Docker**
 
-- 👨‍💻 All of my projects are available at [coming soon !](coming soon !)
+- 👨‍💻 All of my projects are available at [coming soon !]
 
 - 💬 Ask me about **C / Bash / Ruby / Docker**
 
