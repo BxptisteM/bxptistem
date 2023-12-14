@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [coming soon !](coming soon !)
 
-- 💬 Ask me about **C / Bash / Ruby**
+- 💬 Ask me about **C / Bash / Ruby / Docker**
 
 - 📫 How to reach me **baptiste.moreau@epitech.eu**
 
