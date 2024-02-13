@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **my school projects**
 
-- 🧠 I’m currently learning **Ruby / Rails / RSPEC / Docker / C++**
+- 🧠 I’m currently learning **Ruby / Rails / RSPEC / Docker / C++ / ASM / Haskell**
 
 - 👨‍💻 All of my projects are available at [coming soon !]
 
