@@ -1,19 +1,58 @@
 <h1 align="center">Hello 👋, I'm Baptiste</h1>
-<h3 align="center">A french IT student at Epitech.</h3>
+<h3 align="center">A french IT student at Epitech Nantes (3rd year).</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bxptistem" alt="bxptistem" /></a> </p>
+----
 
-- 🔭 I’m currently working on **my school projects**
+- 🔭 I’m currently working on reproducing **Trello** for a school project!
+- 🧠 Currently learning **NestJS / TypeScript / React / Kubernetes / Express / NodeJS**
+- 💬 Ask me about **C / Bash / C++ / Docker / Cybersecurity / DevOps**
+- 📫 How to reach me: **baptiste.moreau@epitech.eu**
+- 🛡️ Passionate about **cybersecurity**, I placed **12th** at **Hydra CTF**, a competition organized by Epitech for 2nd-year students.
+- 🏆 I regularly participate in **Capture The Flag (CTF)** competitions to hone my cybersecurity skills.
 
-- 🧠 I’m currently learning **Ruby / Rails / RSPEC / Docker / C++ / ASM / Haskell**
 
-- 👨‍💻 All of my projects are available at [coming soon !]
+----
 
-- 💬 Ask me about **C / Bash / Ruby / Docker**
 
-- 📫 How to reach me **baptiste.moreau@epitech.eu**
+<h3 align="center">GitHub Statistics</h3>
 
-- 🔍 Remember **Carapace Marron is everywere**
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=BxptisteM&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&show_icons=true&theme=tokyonight" alt="Stats" />
+</p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://rubyonrails.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rails/rails-original-wordmark.svg" alt="rails" width="40" height="40"/> </a> <a href="https://www.ruby-lang.org/en/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="ruby" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> </p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=BxptisteM&theme=tokyonight&hide_border=false" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=bxptistem&theme=tokyonight" alt="bxptistem" />
+  </a>
+</p>
+
+
+----
+<h3 align="center">Languages</h3>
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=bash,c,cpp,typescript,react,express,nest,js" alt="Languages" />
+  </a>
+</p>
+
+<h3 align="center">Tools</h3>
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=docker,jenkins,azure,powershell,postman,github,notion" alt="Tools" />
+  </a>
+</p>
+
+<h3 align="center">OS</h3>
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=kali,ubuntu,windows,linux" alt="OS" />
+  </a>
+</p>
+
