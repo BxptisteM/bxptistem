@@ -44,7 +44,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=docker,jenkins,azure,powershell,postman,github,notion,postgres," alt="Tools" />
+    <img src="https://skillicons.dev/icons?i=docker,jenkins,azure,powershell,postman,github,notion,postgres" alt="Tools" />
   </a>
 </p>
 
