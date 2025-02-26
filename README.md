@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on reproducing **Trello** for a school project!
 - 🧠 Currently learning **Java / C# / .NET / Angular**
-- 💬 Ask me about **C / Bash / C++ / Docker / Cybersecurity / DevOps**
+- 💬 Ask me about **Bash / C / C++ / Docker / Cybersecurity / DevOps**
 - 📫 How to reach me: **baptiste.moreau@epitech.eu**
 - 🛡️ Passionate about **cybersecurity**, I placed **12th** at **Hydra CTF**, a competition organized by Epitech for 2nd-year students.
 - 🏆 I regularly participate in **Capture The Flag (CTF)** competitions to hone my cybersecurity skills.
