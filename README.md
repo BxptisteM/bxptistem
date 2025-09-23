@@ -1,9 +1,9 @@
 <h1 align="center">Hello 👋, I'm Baptiste</h1>
-<h3 align="center">A french IT student at Epitech Nantes (3rd year).</h3>
+<h3 align="center">A french IT student at Epitech Brussels (4th year).</h3>
 
 ----
 
-- 🔭 I’m currently working on reproducing **Trello** for a school project!
+- 🔭 I’m currently working on Kairo wich is my Graduation project!
 - 🧠 Currently learning **Java / C# / .NET / Angular**
 - 💬 Ask me about **Bash / C / C++ / Docker / Cybersecurity / DevOps**
 - 📫 How to reach me: **baptiste.moreau@epitech.eu**
