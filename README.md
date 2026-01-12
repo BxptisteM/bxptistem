@@ -1,12 +1,11 @@
 <h1 align="center">Hello 👋, I'm Baptiste</h1>
-<h3 align="center">A french IT student at Epitech Brussels (4th year).</h3>
+<h3 align="center">A french IT student (4th year).</h3>
 
 ----
 
 - 🔭 I’m currently working on Kairo wich is my Graduation project!
 - 🧠 Currently learning **Java / C# / .NET / Angular**
 - 💬 Ask me about **Bash / C / C++ / Docker / Cybersecurity / DevOps**
-- 📫 How to reach me: **baptiste.moreau@epitech.eu**
 - 🛡️ Passionate about **cybersecurity**, I placed **12th** at **Hydra CTF**, a competition organized by Epitech for 2nd-year students.
 - 🏆 I regularly participate in **Capture The Flag (CTF)** competitions to hone my cybersecurity skills.
 
