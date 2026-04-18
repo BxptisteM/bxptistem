@@ -6,8 +6,6 @@
 - 🔭 I’m currently working on Kairo wich is my Graduation project!
 - 🧠 Currently learning **Java / C# / .NET / Angular**
 - 💬 Ask me about **Bash / C / C++ / Docker / Cybersecurity / DevOps**
-- 🛡️ Passionate about **cybersecurity**, I placed **12th** at **Hydra CTF**, a competition organized by Epitech for 2nd-year students.
-- 🏆 I regularly participate in **Capture The Flag (CTF)** competitions to hone my cybersecurity skills.
 
 
 ----
