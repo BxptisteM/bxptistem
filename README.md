@@ -1,5 +1,5 @@
 <h1 align="center">Hello 👋, I'm Baptiste</h1>
-<h3 align="center">A french IT student (4th year).</h3>
+<h3 align="center">A french IT student (5th year).</h3>
 
 ----
 
